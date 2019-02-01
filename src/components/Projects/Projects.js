@@ -54,7 +54,7 @@ const Projects = () => (
         title="This portfolio"
         description="The code for the portfolio you are currently browsing"
         github="https://github.com/Alextricityy/my-portfolio"
-        live="https://alextricityy.github.io/portfolio"
+        live="https://alextricityy.github.io/my-portfolio/"
       >
         <Icon src={react} height="40px" width="40px" />
       </Project>
