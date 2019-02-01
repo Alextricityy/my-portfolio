@@ -26,7 +26,7 @@ const Projects = () => (
       <Project
         title="Homeful"
         description="Concept Web application to help make meaningful changes to homeless around the capital"
-        github="https://github.com/alextricityy/homeful"
+        github="https://github.com/Alextricityy/homeful"
         live="http://www.homeful.co.uk"
       >
         <Icon src={ruby} height="40px" width="40px" />
@@ -34,7 +34,7 @@ const Projects = () => (
       <Project
         title="Personal Blog"
         description="Gatsby blog with custom page transitions and graphCMS integration"
-        github="https://github.com/alextricityy/my-blog/"
+        github="https://github.com/Alextricityy/my-blog/"
         live="#"
       >
         <Icon src={react} height="40px" width="40px" />
@@ -44,8 +44,7 @@ const Projects = () => (
       <Project
         title="Discord Bot"
         description="A Simple Discord Bot with the ability to display and change member data"
-        github="http://github.com/alextricityy/discord-bot"
-        live="#"
+        github="http://github.com/Alextricityy/discord-bot"
         tech="react"
       >
         <Icon src={node} height="40px" width="40px" />
@@ -53,11 +52,20 @@ const Projects = () => (
     
       <Project
         title="This portfolio"
-        description="The code for the portfolio you are currently browsing!"
-        github="https://github.com/alextricityy/portfolio"
+        description="The code for the portfolio you are currently browsing"
+        github="https://github.com/Alextricityy/my-portfolio"
         live="https://alextricityy.github.io/portfolio"
       >
         <Icon src={react} height="40px" width="40px" />
+      </Project>
+
+      <Project
+        title="Youtube React"
+        description="A youtube Style clone built on react"
+        github="https://github.com/Alextricityy/Youtube-react"
+      >
+        <Icon src={react} height="40px" width="40px" />
+        <Icon src={node} height="40px" width="40px" />
       </Project>
     </StyledProjects>
   </Element>
