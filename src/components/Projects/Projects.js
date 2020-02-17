@@ -35,7 +35,7 @@ const Projects = () => (
         title="Personal Blog"
         description="Gatsby blog with custom page transitions and graphCMS integration"
         github="https://github.com/Alextricityy/my-blog/"
-        live="#"
+        
       >
         <Icon src={react} height="40px" width="40px" />
         <Icon src={gatsby} height="40px" width="40px" />

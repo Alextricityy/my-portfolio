@@ -65,9 +65,12 @@ const Project = props => {
       <StyledDescription>{props.description}</StyledDescription>
       <Wrapper>
         <SocialIcon url={props.github} />
+        {props.live != null &&
         <StyledLiveLink href={props.live} target="_blank">
           live
         </StyledLiveLink>
+        }
+        
       </Wrapper>
     </StyledProjectCard>
   );

@@ -111,7 +111,7 @@ const InfoCard = () => (
     <StyledInfo>
       <h1>Alex</h1>
       <h1>Sell</h1>
-      <h2>FullStack Web Developer<br /> <StlyedCompany>@MCSA</StlyedCompany></h2>
+      <h2>FullStack Web Developer<br /> <StlyedCompany>@Prisym ID</StlyedCompany></h2>
       <h2>Reading, England</h2>
       <SocialWrapper>
 

@@ -58,7 +58,7 @@ const About = () => (
         <p>
           I am a Web Developer from Reading who's passion is working with modern technologies such as React
           and GraphQl. Throughout my Career as a developer i have had the opportunity to learn and use many
-          languages and frameworks such as C#, Ruby On Rails and Nodejs. Using all of these difeerent technolgies has
+          languages and frameworks such as C#, Ruby On Rails and Nodejs. Using all of these different technolgies has
           furthered my understanding of fundamentals of Coding.
         </p>
         <br />
